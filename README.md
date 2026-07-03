@@ -44,8 +44,6 @@ I enjoy crafting applications using modern tools to deliver the best experience 
 
 # 🔗 Links
 
-# 🔗 Links
-
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shreydev-portfolio.netlify.app/)
 [![Google Developer](https://img.shields.io/badge/Google_Developer_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/shreyansh1022)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreydev22@gmail.com/)
